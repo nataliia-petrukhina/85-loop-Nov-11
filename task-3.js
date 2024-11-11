@@ -22,7 +22,7 @@
  * 8
  * 
  * But:
- * node task-3.js 2 5
+ * node task-3.js 2 5  n
  * 
  * Expected output:
  * Attention: the first number must be greater than the second!
